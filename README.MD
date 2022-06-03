@@ -14,6 +14,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferrjohnpainagan&show_icons=true" alt="ferrjohnpainagan" /></p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ferrjohnpainagan&theme=dark)](https://github.com/ferrjohnpainagan)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferrjohnpainagan)](https://github.com/ferrjohnpainagan/github-readme-stats)
+
 ## <h3 align="center">SOCIAL'S / CONNECTIONS</h3>
 
 -   📫 You can contact me though...
