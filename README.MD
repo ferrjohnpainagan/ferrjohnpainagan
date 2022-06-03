@@ -1,18 +1,16 @@
 ### Hello welcome to my profile. 👋
 
--   🔭 I’m currently working on (example)
--   🌱 I’m currently learning (example)
--   👯 I’m looking forward to these next few years, and see where it goes.
--   🤔 I’m also looking for help on more (example) work, so let me know if you can help out.
--   💬 Ask me about anything, and im here to help out or talk to.
+-   I'm a Software Engineer
+-   With experience working on both Frontend and Backend developments
+-   Tech stack: Node.js, React.js, AWS
 
-## ⚡ Fun fact: A cool fun fact about you.
+## ⚡ Fun fact: I'm a Licensed Aeronautical Engineer
 
 <h3 align="center">Profile Stats</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferrjohnpainagan" alt="ferrjohnpainagan" /> </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferrjohnpainagan&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ferrjohnpainagan&show_icons=true&theme=dark)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ferrjohnpainagan&theme=dark)](https://github.com/ferrjohnpainagan)
 
