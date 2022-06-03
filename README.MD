@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferrjohnpainagan" alt="ferrjohnpainagan" /> </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ferrjohnpainagan&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ferrjohnpainagan&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ferrjohnpainagan&theme=dark)](https://github.com/ferrjohnpainagan)
 
