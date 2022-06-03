@@ -12,11 +12,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferrjohnpainagan" alt="ferrjohnpainagan" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferrjohnpainagan&show_icons=true" alt="ferrjohnpainagan" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferrjohnpainagan&show_icons=true&theme=dark)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ferrjohnpainagan&theme=dark)](https://github.com/ferrjohnpainagan)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferrjohnpainagan&layout=compact&hide=html,css)](https://github.com/ferrjohnpainagan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferrjohnpainagan&layout=compact)](https://github.com/ferrjohnpainagan/github-readme-stats)
 
 ## <h3 align="center">SOCIAL'S / CONNECTIONS</h3>
 
