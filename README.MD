@@ -1,7 +1,7 @@
 ### Hello welcome to my profile. 👋
 
 -   I'm a Software Engineer
--   With experience working on both Frontend and Backend developments
+-   With experience working on both Frontend and Backend development
 -   Tech stack: Node.js, React.js, AWS
 
 ## ⚡ Fun fact: I'm a Licensed Aeronautical Engineer
@@ -12,7 +12,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ferrjohnpainagan&show_icons=true&theme=gotham)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ferrjohnpainagan&theme=dark)](https://github.com/ferrjohnpainagan)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ferrjohnpainagan&theme=gotham)](https://github.com/ferrjohnpainagan)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferrjohnpainagan&layout=compact)](https://github.com/ferrjohnpainagan/github-readme-stats)
 
