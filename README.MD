@@ -16,7 +16,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ferrjohnpainagan&theme=dark)](https://github.com/ferrjohnpainagan)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferrjohnpainagan)](https://github.com/ferrjohnpainagan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferrjohnpainagan&layout=compact&hide=html,css)](https://github.com/ferrjohnpainagan/github-readme-stats)
 
 ## <h3 align="center">SOCIAL'S / CONNECTIONS</h3>
 
