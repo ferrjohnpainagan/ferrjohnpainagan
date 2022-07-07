@@ -2,7 +2,7 @@
 
 -   I'm a Software Engineer
 -   With experience working on both Frontend and Backend development
--   Tech stack: Node.js, React.js, AWS
+-   Tech stack: Node.js, Express, React.js, AWS, Serverless
 
 ## ⚡ Fun fact: I'm a Licensed Aeronautical Engineer
 
