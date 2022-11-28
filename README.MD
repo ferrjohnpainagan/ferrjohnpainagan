@@ -1,7 +1,6 @@
 ### Hello welcome to my profile. 👋
 
--   I'm a Software Engineer
--   With experience working on both Frontend and Backend development
+-   I'm a Full Stack Engineer
 -   Tech stack: React.js, Node.js, Express, AWS, Serverless
 
 ## ⚡ Fun fact: I'm a Licensed Aeronautical Engineer
