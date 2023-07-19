@@ -1,7 +1,7 @@
 ### Hello welcome to my profile. 👋
 
 -   I'm a Full Stack Engineer
--   Tech stack: React.js, Node.js, Express, AWS, Serverless, Typescript
+-   Tech stack: React.js, Nest.js, Node.js, Express, AWS, Serverless, Typescript
 
 ## ⚡ Fun fact: I'm a Licensed Aeronautical Engineer
 
