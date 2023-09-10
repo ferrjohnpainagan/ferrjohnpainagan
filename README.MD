@@ -1,7 +1,7 @@
 ### Hello welcome to my profile. 👋
 
 -   I'm a Full Stack Engineer
--   Tech stack: React.js, Nest.js, Node.js, Express, AWS, Serverless, Typescript
+-   Tech stack: React.js, Next.js, Nest.js, Node.js, Express, AWS, Serverless, Typescript
 
 ## ⚡ Fun fact: I'm a Licensed Aeronautical Engineer
 
@@ -13,6 +13,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferrjohnpainagan&layout=compact)](https://github.com/ferrjohnpainagan/github-readme-stats)
 
-## <h3 align="center">SOCIAL'S / CONNECTIONS</h3>
-
--   📫 You can contact me though...
