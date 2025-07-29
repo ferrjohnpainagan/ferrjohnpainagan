@@ -1,6 +1,6 @@
 ### Hello welcome to my profile. 👋
 
--   I'm a Full Stack Engineer
+-   I'm a Software Engineer
 -   Tech stack: React.js, Next.js, Nest.js, Node.js, Typescript
 
 ## ⚡ Fun fact: I'm a Licensed Aeronautical Engineer
