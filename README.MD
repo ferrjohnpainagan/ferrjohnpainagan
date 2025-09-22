@@ -1,7 +1,7 @@
 ### Hello welcome to my profile. 👋
 
 -   I'm a Software Engineer
--   Tech stack: React.js, Next.js, Nest.js, Node.js, Typescript
+-   Tech stack: React.js, Next.js, Nest.js, Node.js, Typescript, AWS, Supabase
 
 ## ⚡ Fun fact: I'm a Licensed Aeronautical Engineer
 
